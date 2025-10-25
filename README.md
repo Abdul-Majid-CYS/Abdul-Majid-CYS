@@ -25,7 +25,7 @@ I’m continuously developing my technical expertise in both **offensive and def
 ### ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,html,css,vscode&perline=6" height="42" />
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,html,css,vscode,windows&perline=7" height="42" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="42" height="42" alt="Canva" style="vertical-align:middle; margin-left:8px;" />
 </p>
 
